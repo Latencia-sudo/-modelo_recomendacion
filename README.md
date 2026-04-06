@@ -1,4 +1,4 @@
-![Demo](Doc/demo.png)
+https://github.com/Latencia-sudo/Modelo-Recomendacion/blob/main/doc/Api.png
 
 
 
