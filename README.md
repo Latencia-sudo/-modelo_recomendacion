@@ -1,3 +1,14 @@
+
+
+![Demo](docs/demo.png)
+## 🎬 Demo
+
+![Interfaz](docs/streamlit.png)
+
+## 🔌 API
+
+![API](docs/api.png)
+
 # 🎬 Sistema de Recomendación de Películas con IA
 
 Un sistema completo de recomendación de películas que utiliza Inteligencia Artificial, desarrollado con fines educativos.
