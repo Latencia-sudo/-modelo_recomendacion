@@ -1,4 +1,4 @@
-![Demo](doc/demo.png)
+![Demo](Doc/demo.png)
 
 
 
